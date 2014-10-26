@@ -1,0 +1,22 @@
+p{
+color : blue;
+}
+
+#row{
+}
+
+#red {
+    height:100px;
+    width:100px;
+    background-color:#FF0000;
+}
+
+.element{
+	content:url("http://i.imgur.com/6iDASoS.jpg");
+	width:240px;
+}
+
+.element_click{
+	content:url("http://imgur.com/DiTkjLW");
+	width:240px;
+}
