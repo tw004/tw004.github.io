@@ -10,4 +10,5 @@ $(document).ready(function(){
 			height:'+=10px'
 			});
 	});
+	document.body.style.backgroundColor = "#AA0000";
 });
