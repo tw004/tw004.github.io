@@ -11,12 +11,11 @@ color : blue;
     background-color:#FF0000;
 }
 
-.element{
-	content:url("http://i.imgur.com/6iDASoS.jpg");
+#element{
 	width:240px;
 }
 
-.element_click{
-	content:url("http://imgur.com/DiTkjLW");
+#element_click{
+	content:url("http://imgur.com/DiTkjLW.jpg");
 	width:240px;
 }
