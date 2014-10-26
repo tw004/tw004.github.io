@@ -5,10 +5,11 @@ $(document).ready(function(){
 			height:'-=10px'
 		});
 	});*/
+	document.body.style.backgroundColor = "#AA0000";
 	$('div').mouseenter(function(){
 		$(this).animate({
 			height:'+=10px'
 			});
 	});
-	document.body.style.backgroundColor = "#AA0000";
+
 });
