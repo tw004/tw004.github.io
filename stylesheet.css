@@ -13,7 +13,7 @@ color : blue;
 
 #element{
 	width:240px;
-	content=url("http://i.imgur.com/6iDASoS.jpg");
+	content:url("http://i.imgur.com/6iDASoS.jpg");
 }
 
 #element_click{
