@@ -12,8 +12,8 @@ color : blue;
 }
 
 #element{
-	content:url("http://i.imgur.com/6iDASoS.jpg");
 	width:240px;
+	content:url("http://i.imgur.com/6iDASoS.jpg");
 }
 
 #element_click{
